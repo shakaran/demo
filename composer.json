@@ -20,6 +20,7 @@
         "doctrine/doctrine-migrations-bundle": "^3.3",
         "doctrine/orm": "^3.0",
         "league/commonmark": "^2.1",
+        "sentry/sentry-symfony": "^5.0",
         "symfony/apache-pack": "^1.0",
         "symfony/asset": "^7.0",
         "symfony/asset-mapper": "^7.0",
