@@ -4,6 +4,7 @@ framework:
         pools:
             async.cache:
                 early_expiration_message_bus: messenger.default_bus
+                
     secret: '%env(APP_SECRET)%'
     csrf_protection: true
     annotations: false
